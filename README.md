@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100081282613873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081282613873" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jeremiasz-talik-550bb9297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiasz talik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeremiasztalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiasz talik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
