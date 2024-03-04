@@ -4,7 +4,7 @@
 
 - 🌟 Life is not about Destination but about Journey
 
-- 🔭 I’m currently working on **"Business Manager" app. And new safety feature for petrol stations**
+- 🔭 I’m currently working on **"Business Manager" app.**
 
 - 🌱 I’m currently learning **CSS and stylization**
 
